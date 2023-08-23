@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="inoxsoftLeave">
+    <output-path>$PROJECT_DIR$/out/artifacts/inoxsoftLeave</output-path>
+    <root id="archive" name="inoxsoftLeave.war">
+      <element id="artifact" artifact-name="Gradle : com.example : inoxsoftLeave-0.0.1-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>
